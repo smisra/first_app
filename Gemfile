@@ -36,3 +36,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+Ek baar bajrangi bhaijan Delhi se Mumbai train se ja rahe the, Mumbai mein utarne per unhe ek chhoti bacchi mili jo bol nahi sakti thi magar woh galti se train mein soti soti reh gayee aur Mumbai aa gayee. 
+Bajrangi bhaijaan ko us bacchi ko uske station pahunchana hai, magar problem yeh hai ki bacchi train se utarne ke baad hi bata sakti hai ki woh uska stop hai ya nahin. Agar pehli baar galat station per utarte hain to woh bacchi rone lagegi aur doosri baar darr kar bhaag jayegi.
+Ek baar train se utarne per woh train chali jaati hai aur phir doosri train per baithna hota hai. Question yeh hai ki Delhi aur mumbai ke beech mein agar 100 stops to minimum kitne kharch mein bacchi ko ghar pahuncha sakte hain, assume saare stations ka kiraya same hai which is 10 rs.
